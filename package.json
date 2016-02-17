@@ -1,0 +1,35 @@
+{
+  "name": "graviton",
+  "version": "0.3.0",
+  "description": "Headless browser for web testing, scrapping",
+  "main": "lib/graviton.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sintanial/graviton.git"
+  },
+  "keywords": [
+    "headless",
+    "browser",
+    "test",
+    "electron",
+    "scrapping",
+    "grabber",
+    "parser",
+    "parsing"
+  ],
+  "author": "Roman Martynov <sintanial@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sintanial/graviton/issues"
+  },
+  "homepage": "https://github.com/sintanial/graviton#readme",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "jsesc": "^0.5.0",
+    "lodash": "^4.4.0",
+    "shortid": "^2.2.4"
+  }
+}
