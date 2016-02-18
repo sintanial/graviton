@@ -14,6 +14,7 @@
     "headless",
     "browser",
     "test",
+    "testing",
     "electron",
     "scrapping",
     "grabber",
@@ -28,8 +29,13 @@
   "homepage": "https://github.com/sintanial/graviton#readme",
   "dependencies": {
     "debug": "^2.2.0",
+    "es6-error": "^2.0.2",
     "jsesc": "^0.5.0",
     "lodash": "^4.4.0",
     "shortid": "^2.2.4"
+  },
+  "devDependencies": {
+    "electron-prebuilt": "^0.36.7",
+    "vo": "^2.0.0"
   }
 }
