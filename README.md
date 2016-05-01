@@ -15,7 +15,7 @@ If anybody want to help identical copy Nightmare API, pull request welcome.
 
 ## How to use
 ```
-npm install electron-prebuild
+npm install electron-prebuilt
 npm install graviton
 ./node_modules/.bin/electron test.js
 ```
